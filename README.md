@@ -14,7 +14,7 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 - Designed an interactive sales dashboard visualizing product performance and customer KPIs.  
 - Applied DAX calculations for margin analysis and trend evaluation.  
 - Delivered insights that improved sales tracking efficiency.  
-**Dashboard Link:** (https://drive.google.com/file/d/1H5IlnZT8nE2HDO0oYPS87CfQDjFxAmMU/view?usp=drive_link)
+
 
 ---
 
@@ -25,7 +25,7 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 - Created an interactive dashboard showing total movies/shows and yearly growth trends.  
 - Enabled genre and country-based filtering for deeper insights.  
 - Provided visibility into the content mix to identify popular categories.  
-**Dashboard Link:** (https://drive.google.com/file/d/19BgtZsRboB1QDXYFoyN3a_FbAMjobunY/view?usp=drive_link)
+
 
 ---
 
@@ -36,7 +36,7 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 - Built an interactive sales dashboard with KPIs, slicers, and trend visualizations.  
 - Used advanced Excel formulas for data cleaning and business insights.  
 - Enabled management to track performance and identify growth regions.  
-**Dashboard Link:** (https://drive.google.com/file/d/19f-0Zx8NixxSa60Bph0u6yU6EGXJpC9k/view?usp=drive_link)
+
 
 ---
 
@@ -47,7 +47,7 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 - Created multi-page Power BI report with KPIs, charts, and map visuals.  
 - Built DAX measures for revenue growth, performance trends, and region-level analysis.  
 - Delivered a management-level view for strategic planning.  
-**Dashboard Link:** (https://drive.google.com/file/d/18jl-HlIhESEFwi_Cdmntf-aiZYezjAfm/view?usp=drive_link)
+
 
 ---
 
@@ -58,7 +58,7 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 - Processed and visualized millions of records from multiple vendors.  
 - Showcased trends for approvals, declines, and month-on-month vendor performance.  
 - Helped stakeholders identify top-performing vendors and risk areas.  
-**Dashboard Link:** (https://drive.google.com/file/d/1RmvPcQrKPrOHLsOODKQe7tLKV_b_uKr_/view?usp=drive_link)
+
 
 ---
 
