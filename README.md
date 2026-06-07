@@ -64,26 +64,31 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 
 ## 🧰 Tools & Skills  
 
-**Languages & Queries:** SQL, Python  
-**Visualization Tools:** Power BI, Tableau, Excel  
-**Data Handling:** Data Cleaning, Data Modeling, DAX, Pivot Tables  
-**Databases:** MySQL  
-**Other Tools:** JIRA, ServiceNow, Microsoft Office  
+Databases	     :    SQL, MySQL
+Programming    :	  Python, Java
+Visualization  :  	Power BI, Tableau, Advanced Excel
+Analytics	     :    EDA, Data Cleaning, Data Validation, KPI Development, Statistical Analysis
+ETL & Modeling :	  Power Query, Data Modeling, ETL Concepts
+Tools	         :    GitHub, Jira, Service Now
+  
 
 ---
 
 ## 🎓 Certifications  
 - SQL – Introduction to SQL with MySQL  
 - The Complete Oracle SQL Certification Course  
-- Power BI & Tableau Dashboarding Projects  
+- Power BI & Tableau Dashboarding Projects
+- Dashboards in Minutes with Claude AI
+- Microsoft Excel Using AI 
 - Core Java Concepts – Foundation  
-- Introduction to Programming the Internet of Things (IoT)  
+
 
 ---
 
 ## 📬 Connect with Me  
 
 📍 Hyderabad, India  
+9010683101/7989639243
 📧 harshabandaru13@gmail.com  
 🔗 [LinkedIn – Harsha Vardhan Bandaru](https://www.linkedin.com/in/harsha-vardhan-bandaru-16496a189/)  
 
