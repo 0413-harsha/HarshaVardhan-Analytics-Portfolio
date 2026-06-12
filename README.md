@@ -65,10 +65,15 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 ## 🧰 Tools & Skills  
 
 Databases       :  	SQL, MySQL
+
 Programming	    :   Python, Java
+
 Visualization 	:   Power BI, Tableau, Advanced Excel
+
 Analytics       :  	EDA, Data Cleaning, Data Validation, KPI Development, Statistical Analysis
+
 ETL & Modeling  :	Power Query, Data Modeling, ETL Concepts
+
 Tools	          :   GitHub, Jira, Service Now
 
 ---
