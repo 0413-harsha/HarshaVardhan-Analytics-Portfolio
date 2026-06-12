@@ -84,6 +84,7 @@ Skilled in **SQL, Power BI, Tableau, Excel, and Python**, I specialize in data c
 ## 📬 Connect with Me  
 
 📍 Hyderabad, India  
+9010683101
 📧 harshabandaru13@gmail.com  
 🔗 [LinkedIn – Harsha Vardhan Bandaru](https://www.linkedin.com/in/harsha-vardhan-bandaru-16496a189/)  
 
