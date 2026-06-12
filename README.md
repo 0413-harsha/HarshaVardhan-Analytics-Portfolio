@@ -91,8 +91,8 @@ Tools	          :   GitHub, Jira, Service Now
 
 ## 📬 Connect with Me  
 
-📍 Hyderabad, India  
 9010683101
+📍 Hyderabad, India  
 📧 harshabandaru13@gmail.com  
 🔗 [LinkedIn – Harsha Vardhan Bandaru](https://www.linkedin.com/in/harsha-vardhan-bandaru-16496a189/)  
 
